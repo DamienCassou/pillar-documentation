@@ -2,7 +2,7 @@
 
 In this section we give the basic steps to get you started with your first Pillar document and exports. You first need to create a ''base directory'' inside which we will put all your text, configuration files, and Pillar itself.
 
-[[[language=sh
+[[[language=bash
 mkdir mydocument
 cd mydocument
 ]]]
@@ -20,7 +20,7 @@ Then, you can check everything is working fine by creating a ==first.pier== file
 And finally compiling it from a terminal (see Section *commandLineInterface* for more information about the command-line interface):
 
 [[[language=bash
-./pillar export --to=html first.pier > first.html
+./pillar export --to='html' 'first.pier' > first.html
 ]]]
 
 This should generate a ==first.html== file you can open in a web browser. This content of this file will be something like:
@@ -64,7 +64,7 @@ you should now get a web page with a title:
 <html lang="en">
   <head>
     <title>My first document while reading the 5 minutes Pillar tutorial</title>
-  [...]
+  </head>
 ]]]
 
 !!!Exporting a different content using a template
