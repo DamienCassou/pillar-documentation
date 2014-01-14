@@ -205,9 +205,6 @@ Pillar exporting mechanism can be configured using [STON](http://smalltalkhub.co
 
 
 
-14 January 2014
-
-
 
 #####2\.2\.1\.  baseDirectory
 <a name="sec:confParam:baseDirectory"></a>
