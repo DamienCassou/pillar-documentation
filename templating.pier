@@ -1,5 +1,6 @@
 !! Templating
-@sec:Templating
+@templating
+
 Pillar comes with the *Mustache>http://smalltalkhub.com/#!/~NorbertHartl/Mustache* templating engine. This means you can specify a preamble and postamble for your document. Here is an example (bootrap-based) HTML template using Mustache:
 
 [[[language=html
