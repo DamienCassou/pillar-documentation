@@ -352,10 +352,11 @@ In this section we show how to use the `pillar` command line interface\.
 ##5\.  Example Pillar Usage
 
 
-Pillar is used in several projects\. You can have a look at this project for real use cases of Pillar\.
+Pillar is used in several projects\. You can have a look at these projects for real use cases of Pillar\.
 
 
 -  [the Enterprise Pharo book](https://ci.inria.fr/pharo-contribution/job/PharoForTheEnterprise/)
 -  [this documentation](https://github.com/DamienCassou/pillar-documentation)
+-  [the Spec documentation](https://github.com/SpecForPharo/documentation)
 
 &nbsp;
