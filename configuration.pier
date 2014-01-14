@@ -11,7 +11,8 @@ Pillar exporting mechanism can be configured using *STON>http://smalltalkhub.com
 !!! Configuration parameters
 
 [[[language=Smalltalk|eval=true
-| methodWithDefaultValue methodComment |
+| writeConfigurationParameter |
+writeConfigurationParameter := [: pragma | | methodWithDefaultValue methodComment |
 methodComment := [ :aMethod |
     aMethod comment
         ifNil: [ 'uncommented' ]
@@ -37,4 +38,9 @@ stream
                             ifFalse: [ 'uncommented' ] ]);
     lf;
     lf
+    ].
+
+((Pragma allNamed: #pillarConfigurationParameter in: PRExportConfiguration) sort: [ :p1 :p2 | p1 selector < p2 selector ])
+        do: [ :pragma | writeConfigurationParameter value: pragma ]
+
 ]]]
