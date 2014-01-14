@@ -422,14 +422,14 @@ To include a picture, use the syntax `+caption>file://filename|parameters+`:
 
 
 ```smalltalk
-+Label of the picture>file://pier-logo.png|width=50|label=pierLogo+
++Label of the picture>file://figures/pier-logo.png|width=50|label=pierLogo+
 ```
 
 
 
 generates Figure [2\.1](#pierLogo) \(this reference has been generated using `*pierLogo*`\)\.
 
-<a name="pierLogo"></a>![pierLogo](pier-logo.png "This is the caption of the picture")
+<a name="pierLogo"></a>![pierLogo](figures/pier-logo.png "This is the caption of the picture")
 
 
 ###2\.8\. Scripts
