@@ -1,0 +1,3 @@
+! Pillar
+
+Pillar is a markup syntax with the ability to export to various formats (e.g., LaTeX, HTML, Markdown). Pillar is used to write the *Enterprise Pharo book>https://ci.inria.fr/pharo-contribution/job/PharoForTheEnterprise/lastSuccessfulBuild/artifact/*.
