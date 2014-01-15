@@ -699,5 +699,6 @@ Pillar is used in several projects\. You can have a look at these projects for r
 -  [the Enterprise Pharo book](https://ci.inria.fr/pharo-contribution/job/PharoForTheEnterprise/)
 -  [this documentation](https://github.com/DamienCassou/pillar-documentation)
 -  [the Spec documentation](https://github.com/SpecForPharo/documentation)
+-  [the Pharo Sound tutorial](https://github.com/xmessner/PharoSoundTutorial)
 
 &nbsp;
