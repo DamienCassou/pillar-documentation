@@ -626,7 +626,7 @@ Indicate the level of Pillar heading at which Pillar stops numbering\.E\.g\., a 
 
 ####3\.2\.12\.  template
 <a name="sec:confParam:template"></a>
-Indicate the overall structure of the exported documents\.
+Indicate the overall structure of the exported documents \(see [¿?](#sec:Templating)\)\.
 <dl><dt>Default value
 </dt><dd>`'{{{content}}}'` \(output the document as is, without any preamble or postamble\)\.</dd></dl>
 
@@ -688,7 +688,15 @@ In this example, we can see the use of `{{{title}}}` and `{{{content}}}` to refe
 ##5\.  Command\-line interface
 <a name="commandLineInterface"></a>
 
-In this section we show how to use the `pillar` command line interface\.
+In this section we show how to use the `pillar` command\-line interface\.
+
+
+
+```bash
+$ ./pillar export --to=latex PharoSound.pier > PharoSound.tex
+```
+
+
 
 ##6\.  Example Pillar Usage
 
