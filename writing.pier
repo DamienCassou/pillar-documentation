@@ -2,7 +2,7 @@
 
 @writing
 
-In this section we show how to write Pillar documents by presenting Pillar syntax.
+In this section we show how to write Pillar documents by presenting Pillar syntax. You might want to have a look at the *cheat sheet>http://www.cheatography.com/benjaminvanryseghem/cheat-sheets/pillar* and even download and print it.
 
 !!!Chapters & Sections
 
@@ -152,7 +152,7 @@ To create links to externals resources, use the ==\*Pharo>http://pharo-project.o
 To include a picture, use the syntax ==\+caption>file://filename|parameters+==:
 
 [[[
-+Label of the picture>file://figures/pier-logo.png|width=50|label=pierLogo+
++Caption of the picture>file://figures/pier-logo.png|width=50|label=pierLogo+
 ]]]
 
 generates Figure *pierLogo* (this reference has been generated using ==\*pierLogo*==).
