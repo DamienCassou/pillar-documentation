@@ -39,6 +39,19 @@ Pillar has also:
 
 &nbsp;
 
+
+The contributors are:
+
+
+-  [Lukas Renggli](http://www.lukas-renggli.ch) created [Pier](http://piercms.com) a long time ago from which Damien Cassou extracted the document model, parser and many unit tests;
+-  [Benjamin van Ryseghem](http://benjamin.vanryseghem.com) did everything on the [Mardown](http://daringfireball.net/projects/markdown/) exporter and its [GitHub Markdown](https://help.github.com/articles/github-flavored-markdown) little brother;
+-  [Benjamin van Ryseghem](http://benjamin.vanryseghem.com) also worked on the command\-line interface, the STON configuration interpreter and many other stuff;
+-  [Guillermo Polito](http://playingwithobjects.wordpress.com) fixed a bug;
+-  [Stéphane Ducasse](http://stephane.ducasse.free.fr) provided continuous feedback from the beginning of the project and got the original idea;
+-  [Damien Cassou](http://damiencassou.seasidehosting.st) for everything else :\-\)
+
+&nbsp;
+
 ##2\. 5 minutes tutorial
 
 
