@@ -338,10 +338,10 @@ generates
 &nbsp;
 
 
-####3\.3\.3\. Description lists
+####3\.3\.3\. Definition lists
 
 
-Description lists are lists with labels:
+Definition lists \(*aka\.* description lists\) are lists with labels:
 
 
 

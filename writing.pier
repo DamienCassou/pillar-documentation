@@ -66,9 +66,9 @@ generates
 #where each line starts with ==#==
 #is transformed to an ordered list, where each line is an entry.
 
-!!!!Description lists
+!!!!Definition lists
 
-Description lists are lists with labels:
+Definition lists (''aka.'' description lists) are lists with labels:
 
 [[[
 ;blue
