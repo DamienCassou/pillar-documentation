@@ -34,20 +34,22 @@ The contributors are:
 - *Stéphane Ducasse>http://stephane.ducasse.free.fr* provided continuous feedback from the beginning of the project and got the original idea;
 - *Damien Cassou>http://damiencassou.seasidehosting.st* for everything else :-).
 
-!!Editors
+!!!Editors
 
 These editors have dedicated plugins for Pillar:
 
 - *Emacs>https://github.com/DamienCassou/pillar-mode*
 - *Vim>https://github.com/cdlm/vim-pillar*
 
-!!Pillar users
+!!!Pillar users
 
 @pillarUSERS
 
 Pillar is used in several projects. You can have a look at these projects for real use cases of Pillar.
 
 - *the Enterprise Pharo book>https://ci.inria.fr/pharo-contribution/job/PharoForTheEnterprise/*
+- *the Marina CMS>https://github.com/tide-framework/marina*
+- *the Pier CMS>http://piercms.com*
 - *the Pillar documentation itself>https://github.com/DamienCassou/pillar-documentation*
 - *the Spec documentation>https://github.com/SpecForPharo/documentation*
 - *the Pharo sound tutorial>https://github.com/xmessner/PharoSoundTutorial*
