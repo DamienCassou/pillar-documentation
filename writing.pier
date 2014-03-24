@@ -6,7 +6,7 @@ In this section we show how to write Pillar documents by presenting Pillar synta
 
 !!!Chapters & Sections
 
-A line starting with ==!== becomes a chapter heading. Use multiple ==!== to create sections and subsections
+A line starting with ==!== becomes a chapter heading. Use multiple ==!== to create sections and subsections.
 
 @chapterAndSections
 

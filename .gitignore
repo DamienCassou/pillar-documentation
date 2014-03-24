@@ -8,3 +8,13 @@
 /pillar-documentation.html
 /pillar-documentation.std.md
 /README.html
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+auto/
+*.synctex.gz
+*.toc
+/README.pdf
+/README.tex

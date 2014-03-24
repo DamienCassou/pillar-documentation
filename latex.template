@@ -1,0 +1,10 @@
+% -*- mode: latex; -*-
+\documentclass[a4paper,10pt,twoside]{book}
+
+\input{common}
+
+\begin{document}
+
+{{{content}}}
+
+\end{document}
