@@ -16,5 +16,4 @@
 auto/
 *.synctex.gz
 *.toc
-/README.pdf
 /README.tex
