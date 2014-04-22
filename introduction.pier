@@ -40,6 +40,8 @@ These editors have dedicated plugins for Pillar:
 
 - *Emacs>https://github.com/DamienCassou/pillar-mode*
 - *Vim>https://github.com/cdlm/vim-pillar*
+- *TextMate>https://github.com/Uko/Pillar.tmbundle*
+- *Atom>https://github.com/Uko/language-pillar*
 
 !!!Pillar users
 
